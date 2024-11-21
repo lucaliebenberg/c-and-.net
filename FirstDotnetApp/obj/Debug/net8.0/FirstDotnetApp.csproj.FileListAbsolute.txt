@@ -1,0 +1,14 @@
+/Users/_lucaliebenberg/Desktop/Coding/c-sharp-and-dotnet/FirstDotnetApp/bin/Debug/net8.0/FirstDotnetApp
+/Users/_lucaliebenberg/Desktop/Coding/c-sharp-and-dotnet/FirstDotnetApp/bin/Debug/net8.0/FirstDotnetApp.deps.json
+/Users/_lucaliebenberg/Desktop/Coding/c-sharp-and-dotnet/FirstDotnetApp/bin/Debug/net8.0/FirstDotnetApp.runtimeconfig.json
+/Users/_lucaliebenberg/Desktop/Coding/c-sharp-and-dotnet/FirstDotnetApp/bin/Debug/net8.0/FirstDotnetApp.dll
+/Users/_lucaliebenberg/Desktop/Coding/c-sharp-and-dotnet/FirstDotnetApp/bin/Debug/net8.0/FirstDotnetApp.pdb
+/Users/_lucaliebenberg/Desktop/Coding/c-sharp-and-dotnet/FirstDotnetApp/obj/Debug/net8.0/FirstDotnetApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/_lucaliebenberg/Desktop/Coding/c-sharp-and-dotnet/FirstDotnetApp/obj/Debug/net8.0/FirstDotnetApp.AssemblyInfoInputs.cache
+/Users/_lucaliebenberg/Desktop/Coding/c-sharp-and-dotnet/FirstDotnetApp/obj/Debug/net8.0/FirstDotnetApp.AssemblyInfo.cs
+/Users/_lucaliebenberg/Desktop/Coding/c-sharp-and-dotnet/FirstDotnetApp/obj/Debug/net8.0/FirstDotnetApp.csproj.CoreCompileInputs.cache
+/Users/_lucaliebenberg/Desktop/Coding/c-sharp-and-dotnet/FirstDotnetApp/obj/Debug/net8.0/FirstDotnetApp.dll
+/Users/_lucaliebenberg/Desktop/Coding/c-sharp-and-dotnet/FirstDotnetApp/obj/Debug/net8.0/refint/FirstDotnetApp.dll
+/Users/_lucaliebenberg/Desktop/Coding/c-sharp-and-dotnet/FirstDotnetApp/obj/Debug/net8.0/FirstDotnetApp.pdb
+/Users/_lucaliebenberg/Desktop/Coding/c-sharp-and-dotnet/FirstDotnetApp/obj/Debug/net8.0/FirstDotnetApp.genruntimeconfig.cache
+/Users/_lucaliebenberg/Desktop/Coding/c-sharp-and-dotnet/FirstDotnetApp/obj/Debug/net8.0/ref/FirstDotnetApp.dll
