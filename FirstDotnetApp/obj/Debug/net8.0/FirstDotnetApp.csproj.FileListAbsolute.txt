@@ -12,3 +12,4 @@
 /Users/_lucaliebenberg/Desktop/Coding/c-sharp-and-dotnet/FirstDotnetApp/obj/Debug/net8.0/FirstDotnetApp.pdb
 /Users/_lucaliebenberg/Desktop/Coding/c-sharp-and-dotnet/FirstDotnetApp/obj/Debug/net8.0/FirstDotnetApp.genruntimeconfig.cache
 /Users/_lucaliebenberg/Desktop/Coding/c-sharp-and-dotnet/FirstDotnetApp/obj/Debug/net8.0/ref/FirstDotnetApp.dll
+/Users/_lucaliebenberg/Desktop/Coding/c-sharp-and-dotnet/FirstDotnetApp/obj/Debug/net8.0/FirstDotnetApp.sourcelink.json
