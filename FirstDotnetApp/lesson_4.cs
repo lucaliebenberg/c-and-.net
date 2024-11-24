@@ -2,7 +2,7 @@ internal class Lesson4
 {
     private static void Lesson_4()
     {
-        try 
+        try
         {
             DateTime.Parse("asdf");
         }
@@ -10,19 +10,19 @@ internal class Lesson4
         {
             Console.WriteLine($"Something went wrong during parsing: {ex}");
         }
-        finally 
+        finally
         {
             Console.WriteLine("Finally being entered");
         }
 
         // specific exceptions
-        try
-        {
+        // try
+        // {
 
-        }
-        catch (Exception as ex) when (ex.Message.Contains("specific condition"))
-        {
-            // handle exception
-        }
+        // }
+        // catch (Exception as ex) when (ex.Message.Contains("specific condition"))
+        // {
+        //     // handle exception
+        // }
     }
 }
