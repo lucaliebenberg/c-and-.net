@@ -3,9 +3,9 @@ using System.Runtime.CompilerServices;
 using System.Security.Cryptography;
 using Microsoft.VisualBasic;
 
-internal class Program_2
+internal class Lesson2
 {
-    private static void Main(string[] args)
+    private static void Lesson_2(string[] args)
     {
         // Built-In Types
         // bool myBool = true;

@@ -1,9 +1,9 @@
 ﻿
 using System.Diagnostics.Contracts;
 
-internal class Program_1
+internal class Lesson1
 {
-    private static void Main(string[] args)
+    private static void Lesson_1(string[] args)
     {
         var even = IsEven(4);
         var odd = IsEven(5);

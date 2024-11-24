@@ -1,6 +1,6 @@
-internal class Program_3 
+internal class Lesson3
 {
-    private static void Main()
+    private static void Lesson_3()
     // few string methods
     {
         string name = "Luca";
