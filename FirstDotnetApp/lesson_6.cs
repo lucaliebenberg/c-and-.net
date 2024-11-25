@@ -6,7 +6,7 @@ public class Person(string name, int age = 37)
     public int Age { get; } = age;
 }
 
-internal class Program
+internal class Lesson_6
 {
     private static void Main(string[] args)
     {
