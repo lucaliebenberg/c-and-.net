@@ -1,4 +1,4 @@
-internal class Program
+internal class Lesson7
 {
 
     public abstract class Employee
