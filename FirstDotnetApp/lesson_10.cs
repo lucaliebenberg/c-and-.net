@@ -15,9 +15,9 @@ public class Box<T>
     }
 }
 
-internal class Program
+internal class Program_10
 {
-    private static void Main(string[] args)
+    private static void Main()
     {
         var boxOfAString = new Box<string>();
 
