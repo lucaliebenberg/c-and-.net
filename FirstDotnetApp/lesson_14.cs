@@ -1,4 +1,4 @@
-internal class Program
+internal class Lesson_15
 {
     private static void Main()
     {
