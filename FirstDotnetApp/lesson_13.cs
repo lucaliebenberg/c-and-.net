@@ -1,6 +1,6 @@
 using System.Diagnostics.Metrics;
 
-internal class Program
+internal class Lesson_14
 {
     private static void Main()
     {
